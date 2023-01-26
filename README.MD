@@ -1,0 +1,2 @@
+- $ ruby bin/config_parser/config_parser.rb
+- $ bundle exec rake spec

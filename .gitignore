@@ -1,0 +1,5 @@
+.byebug_history
+.envrc
+.idea/
+Gemfile.lock
+.DS_Store
